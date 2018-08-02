@@ -7,7 +7,7 @@ January is a geometric-humanist sans-serif font.
 The design seeks to combine geometric and humanist features, inspired by [Cabin](https://github.com/impallari/Cabin) by Pablo Impallari and [Muli](https://github.com/vernnobile/MuliFont) by Vernon Adams. 
 
 ## Development
-Version Beta 0 Alpha 8 (0.8.0)
+Version Beta 0 Alpha 9 (0.9.0)
 
 The work is currently in alpha stage. The basic glyph set has not been completed yet. 
 
@@ -15,6 +15,6 @@ Current progress:
 
 ASCII small letters (done)
 
-ASCII capital letters: CDEFHIJLMNOT
+ASCII capital letters: ACDEFHIJLMNOPQRTUVW
 
-Punctuation marks: space, comma, period, semicolon, colon, hyphen-minus, single quote
+Punctuation marks: space, comma, period, semicolon, colon, ellipsis, hyphen, equal, plus, hyphen-minus, minus, en/em-dash, single/double quote, left/right/base single/double quote, exclam
