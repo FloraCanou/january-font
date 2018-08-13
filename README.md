@@ -17,6 +17,6 @@ ASCII small letters (done)
 
 ASCII capital letters: ABCDEFGHIJLMNOPQRSTUVWYZ
 
-ASCII Numerals: 0123
+ASCII numerals: 0123
 
 Punctuation marks: space, comma, period, semicolon, colon, ellipsis, hyphen, equal, plus, hyphen-minus, minus, en/em-dash, vertical bar, slash, backslash, single/double quote, left/right/base single/double quote, exclam, question mark
