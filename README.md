@@ -1,7 +1,5 @@
 ﻿# January Font
-My first font design work
-
-![JanuaryIntro](/images/January Font Demo Circ.png)
+![JanuaryIntro](/images/january_font_demo_circ.png)
 
 ## Brief Intro
 _January_ is a geometric-humanist sans-serif font. 
@@ -39,4 +37,4 @@ The font is intended for title or short text. The design seeks to combine geomet
 ## Dev Guide
 This work is made with the free software [FontForge](https://fontforge.github.io/). 
 
-###### Please check the Manual for more information. 
+#### Please check the Manual for more information. 
