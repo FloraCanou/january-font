@@ -3,15 +3,15 @@
 
 ## Brief Intro
 _January_ is a geometric-humanist sans-serif font. 
-The current version is 1.0.0. 
+The current version is 1.1.0. 
 
 ## Glyph Coverage
 
 Currently, the repertoire fully covers Latin-1 and Latin Extended-A. 
 
-Latin Extended-B: 35/208
+Latin Extended-B: 36/208
 
-IPA Extensions: 28/96
+IPA Extensions: 29/96
 
 Combining Diacritical Marks: 19/112
 
@@ -22,6 +22,8 @@ Phonetic Extensions: 15/128
 General Punctuation: 21/111
 
 Superscripts and Subscripts: 5/42
+
+Currency Symbols: 1/32
 
 Math Operators: 1/256
 
