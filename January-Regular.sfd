@@ -5,7 +5,7 @@ FamilyName: January
 Weight: Regular
 Copyright: Copyright 2018, Flora Canou
 UComments: "2017-11-21: Created with FontForge (http://fontforge.org) +AAoA-2018-12-15: Version 1.0.0+AAoA-2019-01-08: Version 1.1.0+AAoA-Made by Flora Canou"
-FontLog: "2018-12-15 (Version 1.0.0)+AAoA-2019-01-08 (Version 1.1.0)+AAoA-Added more characters for IPA"
+FontLog: "2018-12-15 (Version 1.0.0)+AAoA-2019-01-08 (Version 1.1.0)+AAoA-Added 2 more characters for IPA"
 Version: 1.1.0
 ItalicAngle: 0
 UnderlinePosition: -204
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1511268235
-ModificationTime: 1546930580
+ModificationTime: 1563983522
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -119,7 +119,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 312
-WinInfo: 304 38 14
+WinInfo: 304 38 13
 BeginPrivate: 1
 BlueValues 37 [-20 0 1000 1020 1566 1586 1638 1638]
 EndPrivate
@@ -11894,6 +11894,7 @@ SplineSet
  1313 -2 l 1
  731 1431 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nrighthook
@@ -11929,6 +11930,7 @@ SplineSet
  975 1010 1086 792 1086 490 c 2
  1086 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
