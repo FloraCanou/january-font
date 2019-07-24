@@ -4,8 +4,9 @@ FullName: January Regular
 FamilyName: January
 Weight: Regular
 Copyright: Copyright 2018, Flora Canou
-UComments: "2017-11-21: Created with FontForge (http://fontforge.org) +AAoA-2018-12-15: Version 1.0.0+AAoA-Made by Flora Canou"
-Version: 1.0.0
+UComments: "2017-11-21: Created with FontForge (http://fontforge.org) +AAoA-2018-12-15: Version 1.0.0+AAoA-2019-01-08: Version 1.1.0+AAoA-Made by Flora Canou"
+FontLog: "2018-12-15 (Version 1.0.0)+AAoA-2019-01-08 (Version 1.1.0)+AAoA-Added 2 more characters for IPA"
+Version: 1.1.0
 ItalicAngle: 0
 UnderlinePosition: -204
 UnderlineWidth: 101
@@ -22,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1511268235
-ModificationTime: 1546019674
+ModificationTime: 1563983522
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -60,16 +61,19 @@ Lookup: 1 0 0 "'ss04' Style Set 4" { "'ss04' Style Set 4 cedilla2comma" ("comma"
 Lookup: 258 0 0 "Kern Latin" { "Kern Latin General" [322,30,0] "Kern Latin Descender" [307,30,0] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 5 3 "Kern Latin Descender"
+KernClass2: 6 5 "Kern Latin Descender"
  25 J IJ Eng Ezh Ezhcaron J.1
  41 Jcircumflex Jcaron Jcircumflex.1 Jcaron.1
  54 g gcircumflex gbreve gdotaccent gcedilla gcaron gcomma
  160 j q ij jcircumflex eng ezhcaron jcaron jdotless jdotlessbar hturned lezh mturnedleg mhook ezh tz j.1 jcircumflex.1 jcaron.1 jdotless.1 jdotlessbar.1 lezh.1 tz.1
+ 10 nrighthook
  5 J J.1
  41 Jcircumflex Jcaron Jcircumflex.1 Jcaron.1
- 0 {} 0 {} 0 {} 0 {} 156 {} 156 {} 0 {} 156 {} 306 {} 0 {} 181 {} 181 {} 0 {} 331 {} 331 {}
+ 7 p thorn
+ 33 j jcircumflex jcaron jdotless esh
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 156 {} 156 {} 0 {} 0 {} 0 {} 156 {} 306 {} 0 {} 0 {} 0 {} 181 {} 181 {} 0 {} 0 {} 0 {} 331 {} 331 {} 0 {} 0 {} 0 {} 696 {} 696 {} 94 {} 438 {}
 KernClass2: 19 16 "Kern Latin General"
- 80 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Acaron
+ 88 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Acaron Vturned
  206 D G O Q Eth Ograve Oacute Ocircumflex Otilde Odieresis Oslash Thorn Dcaron Dcroat Gcircumflex Gbreve Gdotaccent Gcedilla Omacron Obreve Ohungarumlaut Oopen Schwa Ocaron Gcaron Oogonek Dcedilla Dcomma Gcomma
  29 T Tcedilla Tcaron Tbar Tcomma
  32 V Y Yacute Ycircumflex Ydieresis
@@ -79,7 +83,7 @@ KernClass2: 19 16 "Kern Latin General"
  3 F P
  89 b e o p s ae oslash thorn eogonek oe scedilla oogonek scomma alphalatinturned oopen schwa
  171 egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis emacron ebreve edot ecaron omacron obreve ohungarumlaut sacute scircumflex scaron ocaron
- 188 a g h m n q u aogonek hbar idotless ncedilla eng uogonek jdotless alphalatin jdotlessbar hturned mturned mturnedleg mhook nlefthook rturned ubar ncomma nlefthook.1 jdotless.1 jdotlessbar.1
+ 199 a g h m n q u aogonek hbar idotless ncedilla eng uogonek jdotless alphalatin jdotlessbar hturned mturned mturnedleg mhook nlefthook nrighthook rturned ubar ncomma nlefthook.1 jdotless.1 jdotlessbar.1
  386 i j t agrave aacute acircumflex atilde adieresis aring ntilde ugrave uacute ucircumflex udieresis amacron abreve gcircumflex gbreve gdotaccent gcedilla hcircumflex iogonek ij nacute ncaron tcedilla tbar utilde umacron ubreve uring uhungarumlaut acaron ucaron udieresismacron udieresisacute udieresiscaron udieresisgrave gcaron tcomma tt ttt j.1 t.1 tcedilla.1 tbar.1 tcomma.1 tt.1 ttt.1
  43 c k x z ccedilla kcedilla ezh ccomma kcomma
  68 cacute ccircumflex cdotaccent ccaron zacute zdotaccent zcaron kcaron
@@ -87,7 +91,7 @@ KernClass2: 19 16 "Kern Latin General"
  13 racute rcaron
  28 yacute ydieresis ycircumflex
  15 vturned wturned
- 83 A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek Acaron
+ 91 A Agrave Aacute Acircumflex Atilde Adieresis Aring AE Amacron Abreve Aogonek Acaron Vturned
  209 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcedilla Omacron Obreve Ohungarumlaut OE Schwa Ocaron Oogonek Ccomma Gcomma
  29 T Tcedilla Tcaron Tbar Tcomma
  32 V Y Yacute Ycircumflex Ydieresis
@@ -95,7 +99,7 @@ KernClass2: 19 16 "Kern Latin General"
  1 X
  131 a c d e g o q s ae ccedilla oslash aogonek dcaron dcroat eogonek oe scedilla oogonek scomma alphalatin schwa dcedilla ccomma dcomma
  325 agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis eth ograve oacute ocircumflex otilde odieresis amacron abreve cacute ccircumflex cdotaccent ccaron emacron ebreve edot ecaron gcircumflex gbreve gdotaccent gcedilla omacron obreve ohungarumlaut sacute scircumflex scaron acaron ocaron gcaron
- 177 m n p r u idotless ncedilla eng rcedilla jdotless alphalatinturned jdotlessbar hturned mturned mturnedleg mhook nlefthook ubar ncomma rcomma nlefthook.1 jdotless.1 jdotlessbar.1
+ 188 m n p r u idotless ncedilla eng rcedilla jdotless alphalatinturned jdotlessbar hturned mturned mturnedleg mhook nlefthook nrighthook ubar ncomma rcomma nlefthook.1 jdotless.1 jdotlessbar.1
  261 i j t ntilde ugrave uacute ucircumflex udieresis nacute ncaron tcedilla tcaron tbar utilde umacron ubreve uring uhungarumlaut ucaron udieresismacron udieresisacute udieresiscaron udieresisgrave tcomma tz tt ttt j.1 t.1 tcedilla.1 tbar.1 tcomma.1 tz.1 tt.1 ttt.1
  7 x z ezh
  33 zacute zdotaccent zcaron ezhcaron
@@ -115,7 +119,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 312
-WinInfo: 0 38 14
+WinInfo: 304 38 13
 BeginPrivate: 1
 BlueValues 37 [-20 0 1000 1020 1566 1586 1638 1638]
 EndPrivate
@@ -199,7 +203,7 @@ Grid
 EndSplineSet
 TeXData: 1 23068672 0 346030 173015 115343 512000 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "ogonek"""  "topxheight"""  "centerD"""  "center"""  "bottom"""  "top"""  "1""" 
-BeginChars: 65537 514
+BeginChars: 65537 516
 
 StartChar: o
 Encoding: 111 111 0
@@ -11868,6 +11872,63 @@ SplineSet
  290 603 l 1
  368 323 624 120 934 120 c 3
  1039 120 1138 149 1226 194 c 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Vturned
+Encoding: 581 581 514
+Width: 1462
+VWidth: 0
+Flags: W
+HStem: -2 21G<14 157.123 1304.88 1448> 1546 20G<654.722 812.214>
+LayerCount: 2
+Fore
+SplineSet
+731 1431 m 1
+ 149 -2 l 1
+ 14 -2 l 1
+ 663 1566 l 1
+ 804 1566 l 1
+ 1448 -2 l 1
+ 1313 -2 l 1
+ 731 1431 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: nrighthook
+Encoding: 627 627 515
+Width: 1226
+VWidth: 0
+Flags: W
+HStem: -591 125<1162.87 1434> 0 21G<161 286> 890 120<480.672 825.441>
+VStem: 161 125<0 674.803 758 947> 961 125<-389.134 733.253>
+AnchorPoint: "center" 624 500 basechar 0
+AnchorPoint: "bottom" 624 0 basechar 0
+AnchorPoint: "top" 624 1190 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1086 0 m 1
+ 1086 -256 l 2
+ 1086 -407 1191 -466 1296 -466 c 2
+ 1434 -466 l 1
+ 1434 -591 l 1
+ 1296 -591 l 2
+ 1086 -591 961 -466 961 -256 c 2
+ 961 0 l 1
+ 961 490 l 2
+ 961 748 875 890 650 890 c 3
+ 400 890 286 660 286 490 c 2
+ 286 0 l 1
+ 161 0 l 1
+ 161 947 l 1
+ 286 1000 l 1
+ 286 758 l 1
+ 286 758 317 1010 650 1010 c 3
+ 975 1010 1086 792 1086 490 c 2
+ 1086 0 l 1
 EndSplineSet
 Validated: 1
 EndChar
